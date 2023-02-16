@@ -2,9 +2,8 @@
   "name": "JATE",
   "scripts": {
     "dev": "webpack-dev-server",
-    "build": "node node_modules/webpack/bin/webpack.js --display-error-details",
-    "start": "webpack --watch",
-    "heroku-postbuild": "webpack --config webpack.prod.js"
+    "build": "webpack --mode production",
+    "start": "webpack --watch"
   },
   "author": "2U",
   "license": "UNLICENSED",
