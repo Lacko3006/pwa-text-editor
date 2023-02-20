@@ -8,3 +8,5 @@ This project was to create a text editor PWA, this is to show my ability to crea
 
 ## Link
 GitHub Link - https://github.com/Lacko3006
+
+Deployed Application on Heroku - https://lit-island-54118.herokuapp.com/
